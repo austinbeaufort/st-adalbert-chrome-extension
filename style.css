@@ -1,0 +1,39 @@
+body {
+    background: wheat;
+}
+
+a {
+    color: yellow;
+}
+
+a:link {
+    text-decoration: none;
+    color: yellow;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+.button {
+    background: #531a26;
+    width: 100px;
+    height: 80px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    color: yellow;
+}
+
+.button:hover {
+    cursor: pointer;
+    background: #7a303f;
+    text-decoration: underline;
+}
+

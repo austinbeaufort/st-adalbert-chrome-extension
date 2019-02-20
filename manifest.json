@@ -1,0 +1,21 @@
+{
+    "name": "St. Adalbert Teacher Resources",
+    "version": "1.0",
+    "description": "Important pages for teachers!",
+    "manifest_version": 2,
+    "icons": {
+        "16": "images/16.png",
+        "48": "images/48.png",
+        "32": "images/32.png",
+        "128": "images/128.png"
+    },
+    "browser_action": {
+        "default_popup": "waffle.html",
+        "default_icon": {
+            "16": "images/16.png",
+            "48": "images/48.png",
+            "32": "images/32.png",
+            "128": "images/128.png"
+        }
+    }
+}
